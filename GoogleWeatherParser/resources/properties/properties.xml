@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key="weather">weather</entry>
+    <entry key="current_conditions">current_conditions</entry>
+    <entry key="condition">condition</entry>
+    <entry key="temp_F">temp_f</entry>
+    <entry key="temp_C">temp_c</entry>
+    <entry key="humidity">humidity</entry>
+    <entry key="weather_condition_icon">icon</entry>
+    <entry key="wind">wind_condition</entry>
+    <entry key="data_attribute">data</entry>
+</properties>
